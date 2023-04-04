@@ -1,7 +1,6 @@
 # BEE-GEN__ML-Model
 # Bee Gen - Detecting Pollen Grains in Honey Bees and Predicting Crop Growth Rate
 
-![Bee Gen Logo](https://example.com/logo.png)
 
 Bee Gen is an innovative project that combines machine learning and agriculture to help farmers and honey bee populations. The project uses computer vision algorithms to detect pollen grains in honey bees, which can provide insights into the health of the honey bee population and the quality of the crops they pollinate. Additionally, Bee Gen can predict the growth rate of crops using machine learning algorithms, which can help farmers make informed decisions about their agricultural practices. 
 
@@ -34,8 +33,8 @@ The Bee Gen project uses computer vision algorithms to detect pollen grains in h
 
 ## Technologies Used
 
-- Python
-- Machine Learning Libraries: TensorFlow, Pandas, NumPy
+- Jupyter Notebook
+- Machine Learning Libraries: TensorFlow, Keras, Scikit-learn, Pandas, NumPy
 - Computer Vision Libraries: OpenCV, Pillow
 
 ## Installation
@@ -48,7 +47,7 @@ pip install -r requirements.txt
 
 To use Bee Gen, run the following command:
 
-you can just download the code and run in python editor like jupyter notebook.
+Open the `bee_gen.ipynb` file in Jupyter Notebook and run the cells to detect pollen grains in honey bees and predict the growth rate of crops.
 
 This will start the program and you can use it to detect pollen grains in honey bees and predict the growth rate of crops.
 
